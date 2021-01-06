@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147570701520",
+    "firebase_url": "https://apnidukaan-d5491-default-rtdb.firebaseio.com",
+    "project_id": "apnidukaan-d5491",
+    "storage_bucket": "apnidukaan-d5491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147570701520:android:2eb79738a0b609a89e9ad5",
+        "android_client_info": {
+          "package_name": "com.example.apni_dukaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147570701520-01nftfc98asvvvgkr1vum1lsnahglbep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apni_dukaan",
+            "certificate_hash": "addc5c62a5b6ab28cc2184ef41b33b697a58aad9"
+          }
+        },
+        {
+          "client_id": "147570701520-uc6dt9uffehvhm5krbldv4cd7rpdnor1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAM_R7gMpV20lo4qv_X1JcgPCKgBAaIr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147570701520-uc6dt9uffehvhm5krbldv4cd7rpdnor1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
